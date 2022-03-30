@@ -7,7 +7,7 @@ for (let i = 1; i <= numero; i++) {
 
     let cubo = (Math.pow(i, 3));
 
-    console.log(Math.pow(i, 3));
+    console.log(cubo);
 
     document.write(' ' + cubo)
 }
