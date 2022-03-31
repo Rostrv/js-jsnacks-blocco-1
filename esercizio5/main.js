@@ -11,6 +11,7 @@ for (let i = 0; i < 6; i++) {
 
     if (numero % 3 == 0) {
         vuoto.push(numero);
-        console.log(vuoto);
+
     }
 }
+console.log(vuoto);
